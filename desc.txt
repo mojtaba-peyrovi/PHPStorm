@@ -1,0 +1,19 @@
+------
+php storm: 
+
+navigate: we can navigate by class name. ==> we can simply search for the class name and it opens it for us.
+also we can navigate by method name(symbol)
+- with alt+1  we can hide the tree view of the files on left side. 
+- in settings/editor/color scheme we can change the scheme.
+- when we want to find much more choices of the code themes, we can go to this address:
+https://daylerees.github.io/
+then we choose the theme we need and then we go to :  https://github.com/daylerees/colour-schemes  and find the associated 
+icls file for it.  then we open the file and change it to raw and then copy the file and paste it in this folder:
+C:\Users\mojiway\.PhpStorm2018.1\config\colors 
+- IMPORTANT:  with shift+ctrl+a    -==> we can search for anything and everything.
+- file templates is where we can define any template and key short code to autmate some of the coding. 
+(for example we makde Eloquent Model)
+- pressing shift 2 times, we can search for anythign. 
+- we can save any type of snippet we want as live template. we just select it, then double shift and search for live template and save it.
+- we can make th variables in the snippet by putting $ at the beginning and end of the variable and make the name uppercase. $NAME$
+---- end of part 7
