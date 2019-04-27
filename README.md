@@ -36,6 +36,7 @@ Now we have to say what key we use to expand it. and what our abbreviation would
 
 __Ctrl+j:__ opens a dialog to insert live template.
 
+
 #### Reformatting the code:
 
 If the code is disorganized, PHPStorm will fix it autmatically by pressing __Ctrl+Alt+L.__ or with shitf+shift search for __reformat code.__
@@ -45,3 +46,20 @@ If the code is disorganized, PHPStorm will fix it autmatically by pressing __Ctr
 - In settings/live templates we can edit all live templates
 
 - In settings/code style we can customize all spacing, braces, etc.
+
+__Important:__ In order to run the original trait or function we use in a different class we hold Ctrl and click on the method. It opens the source file and class.
+
+__VERY USEFUL:__ In order to make a new file:
+```
+1- Proess Ctrl+home
+2- from the the top. where the folder structure is, find the folder you want to put the new file in
+3- press Ctrl+insert , then from the dialog box choose the file type and name the file
+4- create it, Done!
+```
+
+- To duplicate a line: `Ctrl + D`
+
+- To move a line up and down: `Ctrl + Shift + arrow up/arrow down`
+
+- To remove a line: `Ctrl + Y`
+
